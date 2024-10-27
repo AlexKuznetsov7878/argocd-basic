@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image:  summaryexperts/flask-app:v6
+        image:  summaryexperts/flask-app:v5
         ports:
         - containerPort: 5000
